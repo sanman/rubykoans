@@ -1,0 +1,33 @@
+xx--xx--xx--xx--  All About Strings --xx--xx--xx--xx
+
+1.  double_quoted_strings_are_strings
+2.  single_quoted_strings_are_also_strings
+3.  use_single_quotes_to_create_string_with_double_quotes
+4.  use_double_quotes_to_create_strings_with_single_quotes
+5.  use_backslash_for_those_hard_cases
+6.  use_flexible_quoting_to_handle_really_hard_cases
+7.  flexible_quotes_can_handle_multiple_lines
+8.  here_documents_can_also_handle_multiple_lines
+9.  plus_will_concatenate_two_strings
+10. plus_concatenation_will_leave_the_original_strings_unmodified
+11. plus_equals_will_concatenate_to_the_end_of_a_string
+12. plus_equals_also_will_leave_the_original_string_unmodified
+13. the_shovel_operator_will_also_append_content_to_a_string
+14. the_shovel_operator_modifies_the_original_string
+15. double_quoted_string_interpret_escape_characters
+16. single_quoted_string_do_not_interpret_escape_characters
+17. single_quotes_sometimes_interpret_escape_characters
+18. double_quoted_strings_interpolate_variables
+19. single_quoted_strings_do_not_interpolate
+20. any_ruby_expression_may_be_interpolated
+21. you_can_get_a_substring_from_a_string
+22. you_can_get_a_single_character_from_a_string
+23. in_ruby_1_8_single_characters_are_represented_by_integers
+24. in_ruby_1_9_single_characters_are_represented_by_strings
+25. strings_can_be_split
+26. strings_can_be_split_with_different_patterns   
+27. strings_can_be_joined
+28. strings_are_not_unique_objects
+
+
+xx--xx--xx--xx--  All About Symbols --xx--xx--xx--xx
