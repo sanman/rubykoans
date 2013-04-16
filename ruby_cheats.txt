@@ -31,3 +31,16 @@ xx--xx--xx--xx--  All About Strings --xx--xx--xx--xx
 
 
 xx--xx--xx--xx--  All About Symbols --xx--xx--xx--xx
+
+symbols_are_symbols
+symbols_can_be_compared
+identical_symbols_are_a_single_internal_object
+method_names_become_symbols
+symbols_can_be_made_from_strings
+symbols_with_spaces_can_be_built
+symbols_with_spaces_can_be_built_with_interpolation
+to_s_is_called_on_interpolated_symbols
+symbols_are_not_strings
+symbols_do_not_have_string_methods
+symbols_can_be_dynamically_created
+symbols_cannot_be_concatenated
